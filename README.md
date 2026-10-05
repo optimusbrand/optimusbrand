@@ -14,9 +14,8 @@ I've deep dived in:
 
 The one project you should check out is the RoboRapture repo.
 
-You can reach me at: _(click below to copy email)_
-
-<clipboard-copy value="brandon.corona.rios@hotmail.com"><a href="#copy" style="cursor: pointer; color: #0969da; text-decoration: underline;">brandon.corona.rios (at) hotmail (dot) com</a></clipboard-copy>
+You can reach me at:
+brandon.corona.rios (at) hotmail (dot) com
 ...or my LinkedIn profile! (in my profile bio)
 
 Nowadays I'm learning AI/ML, Back-End Development and scalable systems. (Also a bit of French)
