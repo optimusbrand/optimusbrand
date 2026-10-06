@@ -60,14 +60,14 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 ## Fun Facts
 
 <details>
-<summary><b>Click to expand 🎉</b></summary>
+<summary><b>Click to expand</b></summary>
 
 <br>
 
-- I can play **piano, guitar, bass, ukulele and drums**
-- My favorite sport to watch is... **chess** *(I know, boring)*
-- Obsessed with **Gaspar Noé's** work and filmography
-- **Hobbies:** Composing · Swimming · Languages · Rocket League
+- I'm musically trained! I can play **piano, guitar, bass, ukulele and drums**
+- My favorite sport to watch is... **chess** (I can name dozens of pro players, test me)
+- Obsessed with **Gaspar Noé's** work and filmography (fav movie: Enter the void)
+- **Hobbies:** Composing · Swimming · Languages · Rocket League · Teaching
 
 </details>
 
