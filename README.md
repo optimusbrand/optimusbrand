@@ -4,7 +4,7 @@
 
 ### Brandon Corona: Software Developer · Audio Programmer · STEM Teacher
 
-📍 Guadalajara / Mexico City, Mexico &nbsp;|&nbsp; Professional experience abroad (C2 English)
+Based in Guadalajara / Mexico City, Mexico &nbsp;|&nbsp; Spanish (Native), English (C2)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -39,7 +39,7 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 
 ## Featured Project
 
-> ### 🤖 [RoboRapture](https://github.com/optimusbrand/roborapture-audio)
+> ### [RoboRapture](https://github.com/optimusbrand/roborapture-audio)
 > **RoboRapture** is a Windows Videogame, developed in Unity.
 > For the Audio Implementation stage, I worked as the Team Lead, Audio Programmer, Music Architect and Testing & Optimizing.
 > In this Repo you'll find a great example of my work in a technical field as well as team management and product pitching.
