@@ -65,9 +65,9 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 <br>
 
 - I'm musically trained! I can play **piano, guitar, bass, ukulele and drums**
-- My favorite sport to watch is... **chess** (I can name dozens of pro players, test me)
+- I love watching the most boring game tournaments known to mankind: **chess!**
 - Obsessed with **Gaspar Noé's** work and filmography (fav movie: Enter the void)
-- **Hobbies:** Composing · Swimming · Languages · Rocket League · Teaching
+- **Hobbies:** Composing · Swimming · Languages · Teaching · Film & Documentaries
 
 </details>
 
