@@ -22,7 +22,7 @@ Based in Guadalajara / Mexico City, Mexico &nbsp;|&nbsp; Spanish (Native), Engli
 
 I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Programming and Optimization**. I've worked across **Canada and Mexico**, focusing on creative, educational and technical fields. Nowadays exploring opportunitiess in BackEnd Technologies, **Tooling/Testing and Scalable Systems**.
 
-*(Also, I'm a pretty great English teacher.)*
+(Also, I'm a pretty great English teacher.)
 
 ---
 
@@ -53,7 +53,7 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 - **AI / Machine Learning**
 - **Back-End Development**
 - **Scalable Systems**
-- **French** *(un peu)*
+- **French** (un peu)
 
 ---
 
@@ -80,6 +80,6 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 
 <div align="center">
 
-*Thanks for stopping by! 🤠*
+Thanks for stopping by! 🤠
 
 </div>
