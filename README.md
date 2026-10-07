@@ -65,8 +65,11 @@ I'm a **Junior Software Developer** with hands-on experience in **Python/C# syst
 <br>
 
 - I'm musically trained! In my free time I tend to do musical composition, producing and jamming with my friends or overall trying new musical ideas. I can play piano, guitar, bass, ukulele and drums.
+<br>
 - Since I was 12, I've loved watching the most boring game tournaments known to mankind: chess! I'm not amazing at it although I play it quite often. But I do enjoy watching classical tournaments or the speed championships. Fav player: Daniil Dubov
+<br>
 - I do enjoy films way too much. I studied professional audio post-production and even collaborated in some film festivals. So I'm that one nerd that can tell you if the dialogue is off while watching a movie. Fav director: Gaspar Noé
+<br>
 - I've been swimming since I was 3 years old, I used to compete in the past and even won some regional medals, but I decided to let the youngsters have a chance ;)
 
 </details>
