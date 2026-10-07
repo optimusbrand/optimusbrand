@@ -64,7 +64,7 @@ I'm a **Junior Software Developer** with hands-on experience in **Python/C# syst
 
 <br>
 
-- I'm musically trained! In my free time I tend to do musical composition, producing and jamming with my friends or overall trying new musical ideas. I can play piano, guitar, bass, ukulele and drums.
+- I'm musically trained! In my free time you may find me composing, producing, jamming with friends, or overall trying out new musical ideas. I can play piano, guitar, bass, ukulele and drums.
 <br>
 
 - Since I was 12, I've loved watching the most boring game tournaments known to mankind... chess! I'm not amazing at it, although I play it quite often. But I do enjoy watching classical tournaments, or the speed championships. Fav player: Daniil Dubov
