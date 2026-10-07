@@ -20,9 +20,9 @@ Based in Guadalajara / Mexico City, Mexico &nbsp;|&nbsp; Spanish (Native), Engli
 
 ## About Me
 
-I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Programming and Optimization**. I've worked across **Canada and Mexico**, focusing on creative, educational and technical fields. Nowadays exploring opportunitiess in BackEnd Technologies, **Tooling/Testing and Scalable Systems**.
+I'm a **Junior Software Developer** with hands-on experience in **Python/C# systems, Object-Oriented Programming and Code Optimization**. I've been able to work across **Canada and Mexico**, focusing on creative, educational and technical fields. I'm nowadays exploring opportunitiess in **Back-End Development**, **Tooling/Testing and DevOps Technologies**.
 
-(Also, I'm a pretty great English teacher.)
+(Also, I'm a pretty great English teacher!)
 
 ---
 
@@ -41,7 +41,7 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 
 > ### [RoboRapture](https://github.com/optimusbrand/roborapture-audio)
 > **RoboRapture** is a Windows Videogame, developed in Unity.
-> For the Audio Implementation stage, I worked as the Team Lead, Audio Programmer, Music Architect and Testing & Optimizing.
+> For the Audio Implementation stage, I worked as the Team Lead, Audio Programmer, Music Architect and Testing & Optimizing processes.
 > In this Repo you'll find a great example of my work in a technical field as well as team management and product pitching.
 
 > **Stack:** C# · Wwise · Unity · Python · SourceTree · JavaScript(Google Sheets) · Jira/Confluence
@@ -50,10 +50,10 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 
 ## Currently Learning
 
-- **AI / Machine Learning**
-- **Back-End Development**
-- **Scalable Systems**
-- **French** (un peu)
+- **AI / Machine Learning** - Enrolled in Microsoft AI/ML Engineering Certification (Coursera)
+- **Back-End Development** - Enrolled in IBM Back-End Development Certification (Coursera)
+- **DevOps** - Self-taught
+- **French** - Self-taught (un peu)
 
 ---
 
@@ -64,16 +64,16 @@ I'm a **Software Developer** experienced in **Python/C#, Object-Oriented Program
 
 <br>
 
-- I'm musically trained! I can play **piano, guitar, bass, ukulele and drums**
-- I love watching the most boring game tournaments known to mankind: **chess!**
-- Obsessed with **Gaspar Noé's** work and filmography (fav movie: Enter the void)
-- **Hobbies:** Composing · Swimming · Languages · Teaching · Film & Documentaries
+- I'm musically trained! In my free time I tend to do musical composition, producing and jamming with my friends or overall trying new musical ideas. I can play piano, guitar, bass, ukulele and drums.
+- Since I was 12, I've loved watching the most boring game tournaments known to mankind: chess! I'm not amazing at it although I play it quite often. But I do enjoy watching classical tournaments or the speed championships. Fav player: Daniil Dubov
+- I do enjoy films way too much. I studied professional audio post-production and even collaborated in some film festivals. So I'm that one nerd that can tell you if the dialogue is off while watching a movie. Fav director: Gaspar Noé
+- I've been swimming since I was 3 years old, I used to compete in the past and even won some regional medals, but I decided to let the youngsters have a chance ;)
 
 </details>
 
 ---
 
-## Get in Touch
+## Get in Touch!
 
 [![Email](https://img.shields.io/badge/Email-brandon.corona.rios%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:brandon.corona.rios@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-corona-rios/)
